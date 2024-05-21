@@ -19,7 +19,7 @@
 
   - [Hibernate in Java](https://github.com/DimiG031/Hibernate)
 
-  - [Web Shop App (Java, HTML, CSS, MySQL](https://github.com/DimiG031/ShopWebApp)
+  - [Web Shop App (Java, HTML, CSS, MySQL)](https://github.com/DimiG031/ShopWebApp)
 
 
 
