@@ -1,13 +1,25 @@
-<h1>Hi, I'm Goran! <br/><a href="https://https://github.com/DimiG031">Programmer</a> <a href="https://www.linkedin.com/in/goran-dimitrijevic-dimi-874919138/"></a></h1>
+<h1>Hi, I'm Goran! <br/><a href="https://https://github.com/DimiG031">Java Developer</a> , <a href="https://www.linkedin.com/in/goran-dimitrijevic-dimi-874919138/"> Programmer</a></h1>
 
 <h2>👨‍💻 Some Projects:</h2>
 
-- <b>Digital Clock (Java)</b>
+
   - [Digital Clock in Java](https://github.com/DimiG031/DigitalClock)
-- <b>Calculator (Java)</b>
+
   - [Calculator in Java](https://github.com/DimiG031/Calculator)
-- <b>Digital Clock (Java)</b>
+
   - [Digital Clock in Java with Date and Day](https://github.com/DimiG031/Clock_Day_Date)
+
+  - [ToDo App in Java ](https://github.com/DimiG031/ToDoApp)
+
+  - [Console Calculator in Java](https://github.com/DimiG031/ConsolCalculator)
+
+  - [Pong Game in Java](https://github.com/DimiG031/PongGame)
+
+  - [App in JavaFX](https://github.com/DimiG031/JavaFX_Assignment)
+
+  - [Hibernate in Java](https://github.com/DimiG031/Hibernate)
+
+  - [Web Shop App (Java, HTML, CSS, MySQL](https://github.com/DimiG031/ShopWebApp)
 
 
 
