@@ -29,6 +29,8 @@
 
 [<img align="left" alt="GoranDimitrijevic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="GoranDimitrijevic | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="GoranDimitrijevic | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][email]
 
 [instagram]: https://www.instagram.com/goran.dimi/
 [linkedin]: https://linkedin.com/in/goran-dimitrijevic-dimi-874919138/
+[gmail]: gorandimitrijevic031@gmail.com
