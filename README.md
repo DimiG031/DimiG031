@@ -19,7 +19,7 @@
 
   - [Hibernate in Java](https://github.com/DimiG031/Hibernate)
 
-  - [Simulation of Coffee Machine] (https://github.com/DimiG031/CoffeeMachine)
+  - [Simulation of Coffee Machine](https://github.com/DimiG031/CoffeeMachine)
 
   - [Web Shop App (Java, HTML, CSS, MySQL)](https://github.com/DimiG031/ShopWebApp)
 
