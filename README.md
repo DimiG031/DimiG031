@@ -1,4 +1,4 @@
-<h1>Hi, I'm Goran! <br/><a href="https://github.com/DimiG031">Java Developer</a> , <a href="https://www.linkedin.com/in/goran-dimitrijevic-dimi-874919138/"> Programmer</a></h1>
+<h1>Hi,<a href="https://dimig031.github.io"> I'm Goran!</a> <br/><a href="https://github.com/DimiG031">Java Developer</a> , <a href="https://www.linkedin.com/in/goran-dimitrijevic-dimi-874919138/"> Programmer</a></h1>
 
 <h2>👨‍💻 Some Projects:</h2>
 
